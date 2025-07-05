@@ -64,7 +64,7 @@ The interactive Excel dashboard includes:
 3. Explore interactive visualizations across different sheets.
 
 ---
+## 🙋 About Me
+Hi, I'm **Nikita Albela**, transitioning into Data Analytics with an MBA in Business Analytics and a knack for data storytelling. Let's connect and turn data into decisions! 🚀
 
-## 📜 License
-
-MIT License — feel free to use and modify for educational or commercial use.
+Let's connect on [LinkedIn](www.linkedin.com/in/nikita-albela-4194b1164) 👩‍💻
